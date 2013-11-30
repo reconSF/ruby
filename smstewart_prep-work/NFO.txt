@@ -1,0 +1,17 @@
+Author: Stephen Stewart
+Email: stevestewart88@gmail.com
+Assignment: App Academy Course Prep Work
+Submission: 11/7 2:15am
+
+
+Comments:
+	Event_Work: 
+		I did the 3 iterative problems that were not required because they seemed fun and I wanted to find efficent solutions..
+		I changed around how the script functions when executed with some user input etc to display the data created by the 3 iterative methods.
+
+	Test-First Ruby:
+		Completed problems 1-15.
+	
+	"rake_all_specs.sh" is a simple script I created for fun to recursively execute a 'rake' command in all of the example problem folders 
+						in learn_ruby-master.  It's satisfying to see so much green (Because it passing obvi :P) fly through the terminals.
+						Output is also written to rake_output.txt but there is no color highlighting of course!
